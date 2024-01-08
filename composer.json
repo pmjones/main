@@ -1,0 +1,13 @@
+{
+    "name": "main/project",
+    "description": "Main Framework project",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Paul M. Jones",
+            "email": "pmjones@pmjones.io"
+        }
+    ],
+    "require": {}
+}
